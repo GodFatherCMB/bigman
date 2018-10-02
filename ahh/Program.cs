@@ -79,6 +79,7 @@ namespace ahh
         {
             Console.WriteLine("I am " + title + " " + name + ": My apprentice has the following 	details: ");
             Apprentice.PrintSithDetails();
+            Console.WriteLine("go fuck yourself");
         }
     }
 }
